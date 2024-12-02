@@ -611,11 +611,11 @@ section .title::after{
 /* Linhas skills */
 
 .skills-content .right .html::before{
-    width: 80%
+    width: 70%
 }
 
 .skills-content .right .css::before{
-    width: 80%
+    width: 70%
 }
 
 .skills-content .right .js::before{
